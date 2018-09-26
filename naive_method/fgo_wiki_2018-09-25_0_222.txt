@@ -1,0 +1,224 @@
+ID|NAME|NAME_EN|STAR|CLASS|Gender|ILLUST|CV|Origin|Region|Camp|T_NAME|T_PROP|T_TYPE
+1|玛修·基列莱特|Mash Kyrielite|4|Shielder|女性|武内崇|高桥李依|Fate/Grand Order|迦勒底|地|如今仍是遥远的理想之城（Lord·Camelot）|Arts|对恶宝具
+1|玛修·基列莱特|Mash Kyrielite|4|Shielder|女性|武内崇|高桥李依|Fate/Grand Order|迦勒底|地|如今仍是遥远的理想之城（Lord·Camelot）|Arts|对恶宝具
+2|阿尔托莉雅·潘德拉贡|Altria Pendragon|5|Saber|女性|武内崇|川澄绫子|亚瑟王传说|英格兰|地|誓约胜利之剑（Excalibur）|Buster|对城宝具
+3|阿尔托莉雅·潘德拉贡〔Alter〕|Altria Pendragon|4|Saber|女性|武内崇|川澄绫子|亚瑟王传说|英格兰|人|誓约胜利之剑（Excalibur・Morgan）|Buster|对城宝具
+4|阿尔托莉雅·潘德拉贡〔Lily〕|Altria Pendragon|4|Saber|女性|武内崇|川澄绫子|亚瑟王传说|英格兰|地|必胜黄金之剑（Caliburn）|Buster|对人宝具
+5|尼禄·克劳狄乌斯|Nero Claudius|4|Saber|女性|ワダアルコ|丹下樱|史实|罗马|人|童女讴歌如花帝政（Los Saint Claudius）|Arts|对阵宝具
+6|齐格弗里德|Siegfried|4|Saber|男性|近卫乙嗣|诹访部顺一|《尼伯龙根之歌》|德国|地|幻想大剑・天魔失坠（Balmung）|Buster|对军宝具
+7|盖乌斯·尤里乌斯·凯撒|Gaius Julius Caesar|3|Saber|男性|しまどりる|置鲇龙太郎|史实|欧洲|人|黄之死（Crocea Mors）|Quick|对人宝具
+8|阿提拉|Artila|5|Saber|女性|huke|能登麻美子|史实|中亚～欧洲|人|军神之剑（Photon Ray）|Buster|对军宝具
+9|吉尔·德·雷|Gilles de Rais|3|Saber|男性|真じろう|鹤冈聪|史实|法国|人|圣旗之下集结的吼声（Saint Warorder）|Arts|对人宝具
+10|骑士迪昂|Chevalier D'Eon|4|Saber|？|森山大辅|斋藤千和|史实|法国|人|绚烂绽放的百合花（Fleur de Lys）|Arts|对军宝具
+11|卫宫|Emiya|4|Archer|男性|武内崇|诹访部顺一|Fate/stay night|日本|人|无限剑制（Unlimited Blade Works）|Buster|???
+12|吉尔伽美什|Gilgamesh|5|Archer|男性|武内崇|关智一|苏美尔文明、吉尔伽美什叙事诗|巴比伦、乌鲁克|天|天地乖离开辟之星（Enuma Elish）|Buster|对界宝具
+13|罗宾汉|Robin Hood|3|Archer|男性|ワダアルコ|鸟海浩辅|史实|英国|人|祈祷之弓（Yew Bow）|Arts|对人宝具
+14|阿塔兰忒|Atalanta|4|Archer|女性|轮くすさが|早见沙织|希腊神话|希腊|地|诉状的箭书（Phoibos Catastrophe）|Quick|对军宝具
+15|尤瑞艾莉|Euryale|3|Archer|女性|AKIRA|浅川悠|希腊神话|欧洲|天|女神的视线（Eye of the Euryale）|Arts|对人宝具
+16|阿拉什|Arash|1|Archer|男性|BLACK|鹤冈聪|波斯神话|西亚|地|流星一条（Stella）|Buster|对军宝具
+17|库·丘林|Cu Chulainn|3|Lancer|男性|武内崇|神奈延年|凯尔特神话、阿尔斯特神话|爱尔兰|天|刺穿死棘之枪（Gae Bolg）|Quick|对人宝具
+18|伊丽莎白·巴陶里|Erzsebet Bathory|4|Lancer|女性|ワダアルコ|大久保瑠美|史实|匈牙利|人|鲜血魔娘（Báthory Erzsébet）|Buster|对人宝具
+19|武藏坊弁庆|Benkei Musashibou|2|Lancer|男性|真じろう|稻田彻|《义经记》《平家物语》|日本|人|五百罗汉补陀落渡海|Arts|对军宝具
+20|库·丘林〔Prototype〕|Cu Chulainn|3|Lancer|男性|中原|中井和哉|凯尔特神话|欧洲|天|贯穿之朱枪（Gae Bolg）|Quick|对人宝具
+21|列奥尼达斯一世|Leonidas I|2|Lancer|男性|缟うどん|三木真一郎|史实（温泉关之战）|斯巴达|人|炎门的守护者（Θερμοπύλαι ἐνωμοτίαι/Thermopylōn Enōmotiai）|Buster|对军宝具
+22|罗穆路斯|Romulus|3|Lancer|男性|こやまひろかず|置鲇龙太郎|史实、罗马神话|欧洲|星|万物皆由我枪生（Magna Voluisse Magnum）|Buster|对军宝具
+23|美杜莎|Medusa|3|Rider|女性|武内崇|浅川悠|希腊神话|希腊、无形之岛|地|骑英之缰绳（Bellerophon）|Quick|对军宝具
+24|圣乔治|Georgius|2|Rider|男性|中央东口|西前忠久|《黄金传说》《圣乔治传说》|欧洲|人|力绝的祝福之剑（Ascalon）|Arts|对人宝具
+25|爱德华·蒂奇|Edward Teach|2|Rider|男性|Bすけ|西前忠久|史实|加勒比海|人|安妮女王的复仇（Queen Anne's Revenge）|Buster|对军宝具
+26|布狄卡|Boudica|3|Rider|女性|苍月タカオ|斋藤千和|史实|欧洲|人|无以约定守护的车轮（Chariot of Boudica）|Arts|对军宝具
+27|牛若丸|Ushiwakamaru|3|Rider|女性|坂本みねぢ|早见沙织|《义经记》《平家物语》|日本|人|坛之浦・八艘跳|Quick|对人奥义
+28|亚历山大|Alexander|3|Rider|男性|BUNBUN|坂本真绫|史实|欧洲|人|起始的蹂躏制霸（Bucephalus）|Quick|对军宝具
+29|玛丽·安托瓦内特|Marie Antoinette|4|Rider|女性|ギンカ|种田梨沙|史实|欧洲|人|存于百合王冠之中的荣光（Guillotine Breaker）|Quick|对军宝具
+30|玛尔达|Marthe|4|Rider|女性|坂本みねぢ|早见沙织|史实、新约圣书|欧洲|人|不觉爱的悲哀之龙啊（Tarasque）|Buster|对军宝具
+31|美狄亚|Medea|3|Caster|女性|ネコタワワ|田中敦子|希腊神话|希腊、科任托斯|地|万符必将破戒（Rule Breaker）|Arts|对魔术宝具
+32|吉尔·德·雷|Gilles de Rais|3|Caster|男性|Azusa|鹤冈聪|史实|法国|人|螺湮城教本（Prelati's・spellbook）|Buster|对军宝具
+33|汉斯·克里斯蒂安·安徒生|Hans Christian Andersen|2|Caster|男性|ワダアルコ|子安武人|史实|丹麦|人|为你写的故事（Marchen meines Lebens）|Arts|对人宝具
+34|威廉·莎士比亚|William Shakespeare|2|Caster|男性|近卫乙嗣|稻田彻|史实|英格兰|人|开演之时已到，献上如雷的喝彩（First Folio）|Buster|对人宝具
+35|梅菲斯托费勒斯|Mephistopheles|3|Caster|男性|下越|子安武人|《浮士德》（Faust）|德国|地|微酣爆弹（Ticktock Bomb）|Buster|对军宝具
+36|沃尔夫冈·阿马多伊斯·莫扎特|Wolfgang Amadeus Mozart|1|Caster|男性|PFALZ|关智一|史实|欧洲|星|为死神奏响的葬送曲（Requiem for Death）|Arts|对军宝具
+37|诸葛孔明〔艾尔梅洛伊二世〕|Zhuge Kongming〔El-Melloi Ⅱ〕|5|Caster|男性|武内崇|浪川大辅|《三国演义》|中国|人|石兵八阵|Arts|对军宝具
+38|库·丘林|Cu Chulainn|3|Caster|男性|また|神奈延年|凯尔特神话|欧洲|天|燃烧殆尽的炎之牢（Wicker Man）|Buster|对军宝具
+39|佐佐木小次郎|Koujirou Sasaki|1|Assassin|男性|また|三木真一郎|史实|日本|人|燕返|Quick|对人魔剑
+40|咒腕的哈桑|Hassan of the Cursed Arm|2|Assassin|男性|タスクオーナ|稻田彻|中东、山中老人|中东|人|妄想心音（Zabaniya）|Quick|对人宝具
+41|斯忒诺|Stheno|4|Assassin|女性|AKIRA|浅川悠|希腊神話|欧洲|天|女神的微笑（Smile of the Stheno）|Buster|对人宝具
+42|荆轲|Jing Ke|3|Assassin|女性|高橋慶太郎|田中敦子|史实|中国|人|不还匕首|Quick|对人宝具
+43|夏尔·亨利·桑松|Charles Henri Sanson|2|Assassin|男性|しまどりる|宫野真守|史实|法国|人|死是向着明日的希望（la Molé Espoir）|Buster|对人宝具
+44|歌剧魅影|Phantom of the Opera|2|Assassin|男性|縞うどん|置鲇龙太郎|《歌剧魅影》|欧洲|地|吾爱之歌恰为地狱奏响（Christine Christine）|Arts|对军宝具
+45|玛塔·哈里|Mata Hari|1|Assassin|女性|こやまひろかず|种田梨沙|史实|法国~德国|人|有着白昼之眼的女子（Mata Hari）|Arts|对军宝具
+46|卡米拉|Carmilla|4|Assassin|女性|okojo|田中敦子|史实|匈牙利|地|幻想的铁处女（Phantom Maiden）|Buster|对人宝具
+47|赫拉克勒斯|Hercules|4|Berserker|男性|Azusa|西前忠久|希腊神话|希腊|天|射杀百头（Nine Lives）|Buster|不明
+48|兰斯洛特|Lancelot|4|Berserker|男性|こやまひろかず|置鲇龙太郎|亚瑟王传说|英国|地|骑士不死于徒手（Knight of Honor）|Quick|对人宝具
+49|吕布奉先|Lu Bu Fengxian|3|Berserker|男性|ワダアルコ|安井邦彦|史实|中国|人|军神五兵（God Force）|Buster|对人、对军、对城宝具
+50|斯巴达克斯|Spartacus|1|Berserker|男性|近衛乙嗣|鹤冈聪|史实|罗马|人|疵兽的咆吼（Crying Warmonger）|Buster|对人宝具
+51|坂田金时|Sakata Kintoki|5|Berserker|男性|本庄雷太|游佐浩二|史实|日本|人|黄金冲击（Golden Spark）|Buster|对军宝具
+52|弗拉德三世|Vlad Ⅲ|5|Berserker|男性|前田浩孝|置鲇龙太郎|《德古拉》|罗马尼亚|地|血染的王鬼（Kazikli Bey）|Arts|对人宝具
+53|阿斯忒里俄斯|Asterius|1|Berserker|男性|しまどりる|鸟海浩辅|希腊神话|希腊|地|万古不变的迷宫（Chaos Labyrinthos）|Arts|迷宫宝具
+54|卡里古拉|Caligula|2|Berserker|男性|BLACK|鹤冈聪|史实|欧洲|人|残食我心吧，月之光（Flucticulus Diana）|Arts|对军宝具
+55|大流士三世|Darius Ⅲ|3|Berserker|男性|PFALZ|安井邦彦|史实|西亚|人|不死的一万骑兵（Athánatoi Ten Thousand）|Buster|对军宝具
+56|清姬|Kiyohime|3|Berserker|女性|BLACK|种田梨沙|《清姬传说》|日本|地|转身火生三昧|Buster|对人宝具
+57|血斧埃里克|Eric Bloodaxe|2|Berserker|男性|蒼月タカオ|安井邦彦|《Fagrskinna》|挪威~英格兰|人|染血的加冕仪式（Bloodbath Crown）|Buster|对军宝具
+58|玉藻猫|Tamamo Cat|4|Berserker|女性|ワダアルコ|斋藤千和|Fate/EXTRA CCC|SE.RA.PH|地|灿灿日光午睡宫酒池肉林|Quick|对人宝具
+59|贞德|Jeanne d'Arc|5|Ruler|女性|武内崇|坂本真绫|史实|法国|星|我的上帝在此（Luminosite Eternelle）|Arts|结界宝具
+60|俄里翁|Orion|5|Archer|男性・女性|I-IV|神奈延年&泽城美雪|希腊神话|希腊|天|月之女神的爱矢恋矢（Tristar Amore Mio）|Arts|对人宝具
+61|伊丽莎白·巴陶里〔万圣节〕|Erzsebet Bathory|4|Caster|女性|ワダアルコ|大久保瑠美|史实|匈牙利|人|鲜血特上魔娘（Báthory Halloween Erzsébet）|Buster|对人宝具
+62|玉藻前|Tamamo no Mae|5|Caster|女性|ワダアルコ|斋藤千和|日本神话|日本|天|水天日光天照八野镇石|Arts|对军宝具
+63|大卫|David|3|Archer|男性|ギンカ|中村悠一|旧约圣经|以色列|天|五块石头（Hamesh Avanim）|Buster|对人宝具
+64|赫克托耳|Hector|3|Lancer|男性|BLACK|安井邦彦|特洛伊战争|希腊|人|不毁的极枪（Durindana）|Buster|对军宝具
+65|弗朗西斯·德雷克|Francis Drake|5|Rider|女性|ワダアルコ|高乃丽|史实|英国|星|黄金鹿与暴风夜（Golden Wild Hunt）|Buster|对军宝具
+66|安妮·伯妮&玛丽·里德|Anne Bonny & Mary Read|4|Rider|女性|I-IV|野中蓝&川澄绫子|史实|加勒比|人|比翼连理（Caribbean Freebird）|Quick|对人宝具
+67|美狄亚〔Lily〕|Medea|4|Caster|女性|こやまひろかず|野中蓝|希腊神话|希腊|地|万疵必行修补（Pain Breaker）|Arts|对魔术宝具
+68|冲田总司|Souji Okita|5|Saber|女性|武内崇|悠木碧|史实|日本|人|无明三段突刺|Quick|对人魔剑
+69|织田信长|Nobunaga Oda|4|Archer|女性|pako|钉宫理惠|史实|日本|人|三千世界|Buster|对军宝具
+70|斯卡哈|Scathach|5|Lancer|女性|こやまひろかず|能登麻美子|凯尔特神话|爱尔兰|星|贯穿死翔之枪（Gae Bolg Alternative）|Quick|对人宝具
+71|迪尔姆德·奥迪纳|Diarmuid Ua Duibhne|3|Lancer|男性|また|绿川光|凯尔特神话|爱尔兰|地|破魔的红蔷薇、必灭的黄蔷薇（Gae Dearg&Gae Buidhe）|Quick|对人宝具
+72|弗格斯·马克·罗伊|Fergus Mac Roich|3|Saber|男性|Bすけ|黑田崇矢|凯尔特神话|爱尔兰|地|虹霓剑（Caladbolg）|Buster|对军宝具
+73|阿尔托莉雅·潘德拉贡〔Santa Alter〕|Altria Pendragon|4|Rider|女性|武内崇|川澄绫子|大约一周的圣诞Alter小姐 |芬兰|人|誓约胜利之剑（Excalibur・Morgan）|Buster|对城宝具
+74|童谣|Nursery Rhyme|4|Caster|女性|ワダアルコ|野中蓝|英国童话|欧洲|人|为某人写的故事（Nursery Rhyme）|Arts|对人宝具
+75|开膛手杰克|Jack the Ripper|5|Assassin|女性|近衛乙嗣|丹下樱|史实|伦敦|地|解体圣母（Maria the Ripper）|Quick|对人宝具
+76|莫德雷德|Mordred|5|Saber|女性|近衛乙嗣|泽城美雪|亚瑟王传说|英格兰|地|向端丽的吾父发起叛逆（Clarent Blood Arthur）|Buster|对军宝具
+77|尼古拉·特斯拉|Nikola Tesla|5|Archer|男性|なまにくATK（ニトロプラス）|稻田彻|史实|欧洲|星|人类神话・雷电降临（System Keraunos）|Buster|对城宝具
+78|阿尔托莉雅·潘德拉贡〔Alter〕|Altria Pendragon|4|Lancer|女性|石田あきら|川澄绫子|亚瑟王传说|欧洲|天|耀于至远之枪（Rhongomyniad）|Buster|对城宝具
+79|冯·霍恩海姆·帕拉塞尔苏斯|Von Hohenheim Paracelsus|3|Caster|男性|中原|三木真一郎|史实|欧洲|人|元素使的魔剑（Sword of Paracelsus）|Arts|对军宝具
+80|查尔斯·巴贝奇|Charles Babbage|3|Caster|男性|I-IV|稻田彻|史实|欧洲|人|绚烂的灰烬世界（Dimension of Steam）|Buster|对军宝具
+81|亨利·杰基尔&海德|Henry Jekyll & Hyde|3|Assassin|男性|中原|宫野真守|化身博士|欧洲|地|暗中的罪孽游戏（Dangerous Game）|Buster|对人宝具
+82|弗兰肯斯坦|Frankenstein|4|Berserker|女性|岡崎武士|野中蓝|人造人|欧洲全域|地|磔刑之雷树（Blasted Tree）|Quick|对军宝具
+83|所罗门|Solomon|5|Grand Caster|男性|武内崇|——|||天|||
+84|阿周那|Arjuna|5|Archer|男性|pako|岛崎信长|摩诃婆罗多|印度|天|破坏神的手影（Pāśupata）|Buster|对人宝具
+85|迦尔纳|Karna|5|Lancer|男性|pako|游佐浩二|摩诃婆罗多|印度|天|日轮呀，顺从死亡（Vasavi Shakti）|Buster|对神宝具
+86|谜之女主角X|Mysterious Heroine X|5|Assassin|女性|BUNBUN|川澄绫子|2013年的愚人节|Servant界|星|无铭胜利剑|Quick|对人宝具
+87|芬恩·麦克库尔|Fionn mac Cumhaill|4|Lancer|男性|森山大輔|三木真一郎|凯尔特神话|欧洲|天|无败的紫靫草（Mac-a-Luin）|Arts|对军宝具
+88|布伦希尔德|Brynhildr|5|Lancer|女性|三輪士郎|能登麻美子|北欧神话|欧洲|天|直至死亡将二人分离（Brynhildr Romancia）|Buster|对人宝具
+89|贝奥武夫|Beowulf|4|Berserker|男性|下越|中井和哉|贝奥武夫|北欧|地|源流斗争（Grendel Buster）|Buster|对人宝具
+90|尼禄·克劳狄乌斯〔花嫁〕|Nero Claudius|5|Saber|女性|ワダアルコ|丹下樱|史实|罗马|人|星驰终幕的蔷薇（Fax Caelestis）|Arts|对人宝具
+91|两仪式〔Saber〕|Shiki Ryougi|5|Saber|女性|武内崇|坂本真绫|空之境界|日本|人|无垢识・空之境界|Arts|对人宝具
+92|两仪式〔Assassin〕|Shiki Ryougi|4|Assassin|女性|武内崇|坂本真绫|空之境界|日本|人|唯识・直死之魔眼|Arts|对人宝具
+93|天草四郎|Shirou Amakusa|5|Ruler|男性|近衛乙嗣|内山昂辉|史实|日本|人|双腕・零次集束（Twin Arm Big Crunch）|Buster|对军宝具
+94|阿斯托尔福|Astolfo|4|Rider|？？？|近衛乙嗣|大久保瑠美|查理曼传说|法国|地|此世无存的幻马（Hippogriff）|Quick|对军宝具
+95|幼吉尔|Child Gil|3|Archer|男性|天空すふぃあ|远藤绫|史实、吉尔伽美什叙事诗|西亚|天|王之财宝（Gate Of Babylon）|Buster|对人宝具
+96|岩窟王 爱德蒙·唐泰斯|Edmond Dantes|5|Avenger|男性|小松崎類|岛崎信长|大仲马著《基督山伯爵》？|法国|人|虎呀，燃烧着煌煌火光（Enfer Château d'If）|Quick|对军宝具
+97|南丁格尔|Nightingale|5|Berserker|女性|高橋慶太郎|泽城美雪|史实|欧洲|人|我将绝灭一切毒害（Nightingale Pledge）|Arts|对军宝具
+98|库·丘林〔Alter〕|Cu Chulainn|5|Berserker|男性|しまどりる|神奈延年|凯尔特神话|欧洲|地|啮碎死牙之兽（Curruid Coinchenn）|Buster|对人宝具
+99|女王梅芙|Medb|5|Rider|女性|高山箕犀|佐仓绫音|凯尔特神话|爱尔兰|地|我所心爱的铁战车（Chariot My Love）|Buster|对军宝具
+100|海伦娜·布拉瓦茨基|Helena Blavatsky|4|Caster|女性|松竜|金元寿子|史实|欧洲|人|金星神・火炎天主（Sanat Kumāra）|Arts|对军宝具
+101|罗摩|Rama|4|Saber|男性|輪くすさが|泽城美雪|罗摩衍那|印度|天|破穿罗刹之不灭（Brahmastra）|Buster|对魔宝具
+102|神枪 李书文|Li Shuwen|4|Lancer|男性|ワダアルコ|安井邦彦|史实|中国|人|神枪无二打|Arts|对人宝具
+103|托马斯·爱迪生|Thomas Edison|4|Caster|男性|pako|寺岛拓笃|史实|北美|人|W・F・D（World Faith Domination）|Arts|对民宝具
+104|杰罗尼莫|Geronimo|3|Caster|男性|坂本みねぢ|江川央生|史实|北美|人|大地之创立者（Tsavo Dej Nareya）|Arts|对军宝具
+105|比利小子|Billy the Kid|3|Archer|男性|縞うどん|高乃丽|史实|北美|人|坏音之霹雳（Thunderer）|Quick|对人宝具
+106|贞德〔Alter〕|Jeanne d'Arc|5|Avenger|女性|武内崇|坂本真绫|史实|法国|人|咆哮吧，我的愤怒（La Grondement Du Haine）|Buster|对军宝具
+107|安哥拉曼纽|Angra Mainyu|0|Avenger|男性|ネコタワワ|寺岛拓笃|拜火教|古代波斯|人|伪写记载之万象（Verg Avesta）|Arts|对人宝具
+108|伊斯坎达尔|Iskandar|5|Rider|男性|武内崇|大冢明夫|史实|欧洲|人|王之军势（Ionioi Hetairoi）|Buster|对军宝具
+109|卫宫〔Assassin〕|Emiya|4|Assassin|男性|AKIRA|小山力也|-|极东|人|有花堪折直须折（Khronos Rose）|Arts|对人宝具
+110|百貌的哈桑|Hassan of Hundred Faces|3|Assassin|依据个体而不同|タスクオーナ|阿部彬名|中东、山中老人|中东|人|妄想幻象（Zabaniya）|Arts|对人宝具
+111|爱丽斯菲尔〔天之衣〕|Irisviel〔Dress of Heaven〕|4|Caster|女性|縞うどん|大原沙耶香|-|-|天|洁白的圣杯啊，讴歌吧（Song Of Grail）|Arts|魔术宝具
+112|酒吞童子|Shuten Douji|5|Assassin|女性|本庄雷太|悠木碧|御伽草子等|日本|地|千紫万红・神便鬼毒|Arts|对军宝具
+113|玄奘三藏|Genjou Sanzou|5|Caster|女性|岡崎武士|小松未可子|「西游记」等|中国|人|五行山・释迦如来掌|Buster|对军・对城宝具
+114|源赖光|Raikou Minamotono|5|Berserker|女性|本庄雷太|户松遥|史实、『御伽草子』|日本|天|牛王招雷・天网恢恢|Buster|对军宝具
+115|坂田金时|Kintoki Sakata|4|Rider|男性|本庄雷太|游佐浩二|史实、古净瑠璃等|日本|地|夜狼死九・黄金疾走|Quick|对军宝具
+116|茨木童子|Ibaraki Douji|4|Berserker|女性|左|东山奈央|御伽草子等|日本|地|罗生门大怨起|Buster|对军宝具
+117|风魔小太郎|Koutarou Fuuma|3|Assassin|男性|佐々木少年|花江夏树|史实|日本|人|不灭的混沌旅团|Quick|对军宝具
+118|奥兹曼迪亚斯|Ozymandias|5|Rider|男性|中原|子安武人|史实|埃及|天|光辉的大复合神殿（Ramesseum Tentyris）|Buster|对城宝具
+119|阿尔托莉雅·潘德拉贡〔Lancer〕|Altria Pendragon|5|Lancer|女性|石田あきら|川澄绫子|亚瑟王传说|欧洲|天|耀于至远之枪（Rhongomyniad）|Buster|对城宝具
+120|尼托克丽丝|Nitocris|4|Caster|女性|縞うどん|田中美海|史实|埃及|地|冥镜宝典（Anpu Neb-Ta-）|Arts|对军宝具
+121|兰斯洛特|Lancelot|4|Saber|男性|しまどりる|置鲇龙太郎|亚瑟王传说|英格兰|地|缚锁全断・过重湖光（Aroundight Overload）|Arts|对军宝具
+122|特里斯坦|Tristan|4|Archer|男性|森井しづき|内山昂辉|亚瑟王传说|不列颠|地|痛哭的幻奏（Failnaught）|Quick|对军宝具
+123|高文|Gawain|4|Saber|男性|ワダアルコ|水岛大宙|亚瑟王传说|不列颠|地|轮转胜利之剑（Excalibur Gallatin）|Buster|对军宝具
+124|静谧的哈桑|Hassan of Serenity|3|Assassin|女性|中原|千本木彩花|史实|中东|人|妄想毒身（Zabaniya）|Arts|对人宝具
+125|俵藤太|Toda Tawara|3|Archer|男性|下越|铃村健一|俵藤太物语|日本|人|八幡祈愿・大妖射贯|Buster|对人宝具
+126|贝狄威尔|Bedwyr|3|Saber|男性|天空すふぃあ|宫野真守|亚瑟王传说|英格兰|星|手握圣剑吧，银色之腕（Switch-on Agateram）|Buster|对人宝具
+127|莱昂纳多·达·芬奇|Leonardo da Vinci|5|Caster|女性|下越|坂本真绫|史实|欧洲|星|万能之人（Uomo Universale）|Arts|对人宝具/对军宝具
+128|玉藻前|Tamamo no Mae|5|Lancer|女性|ワダアルコ|斋藤千和|日本神话 三大化生的一角|日本|天|常夏日光・日除伞宠爱一神|Buster|对人宝具
+129|阿尔托莉雅·潘德拉贡〔Archer〕|Altria Pendragon|5|Archer|女性|武内崇|川澄绫子|亚瑟王传说|英国|地|阳光璀璨胜利之剑（Excalibur・Vivian）|Arts|对人宝具
+130|玛丽·安托瓦内特|Marie Antoinette|4|Caster|女性|ギンカ|种田梨沙|史实|欧洲|人|愿所爱光辉永存（Crystal Dress）|Arts|对军宝具/对民宝具
+131|安妮·伯妮&玛丽·里德|Anne Bonny & Mary Read|4|Archer|女性|Ⅰ-Ⅳ|野中蓝&川澄绫子|史实|加勒比|人|比翼连理（Caribbean Freebird・Act 2）|Buster|对人宝具
+132|莫德雷德|Mordred|4|Rider|女性|近衛乙嗣|泽城美雪|亚瑟王传说|英格兰|地|制压汹涌波涛的王者心情！（Prydwen Tube Riding）|Arts|对波宝具
+133|斯卡哈|Scathach|4|Assassin|女性|こやまひろかず|能登麻美子|凯尔特神话|爱尔兰|星|蹴穿死翔之枪（Gae Bolg Alternative）|Quick|对人/对军宝具
+134|清姬|Kiyohime|4|Lancer|女性|BLACK|种田梨沙|『清姫传说』|日本|地|道成寺钟百八式火龙薙|Buster|对人宝具
+135|玛尔达|Marthe|4|Ruler|女性|坂本みねぢ|早见沙织|史实、新约圣书|欧洲|人|狂暴的悲哀之龙啊（Tarasque）|Buster|对人宝具/对龙宝具
+136|伊莉雅斯菲尔·冯·爱因兹贝伦|Illyasviel von Einzbern|5|Caster|女性|ひろやまひろし|门胁舞以＆高野直子|Fate/kaleid liner 魔法少女☆伊莉雅|日本・冬木市|人|多元重奏饱和炮击（Quintet Fire）|Buster|对人宝具
+137|克洛伊·冯·爱因兹贝伦|Chloe von Einzbern|4|Archer|女性|ひろやまひろし|斋藤千和|Fate/kaleid liner 魔法少女☆伊莉雅|日本・冬木市|天|鹤翼三连|Arts|对人宝具
+138|伊丽莎白·巴陶里〔勇者〕|Erzsebet Bathory|4|Saber|女性|ワダアルコ|大久保瑠美|万圣节·回归！|监狱城恰赫季斯|地|鮮血龙卷魔娘（Báthory Brave Erzsébet）|Buster|对人宝具
+139|克利奥帕特拉|Cleopatra|5|Assassin|女性|小松崎類|钉宫理惠|史实|埃及|人|终结黎明之蛇啊，降临此处|Buster|对军宝具
+140|弗拉德三世〔Extra〕|Vlad Ⅲ|4|Lancer|男性|ワダアルコ|江川央生|史实|罗马尼亚|人|穿刺城塞（Kazikli Bey）|Buster|对军宝具
+141|贞德·Alter·Santa·Lily|Jeanne d'Arc|4|Lancer|女性|武内崇|坂本真绫|史实（史实……？）|Santa Land（自称）|人|优雅的讴歌吧，为这圣诞！（La Glace Feuille Noël）|Buster|对军宝具
+142|伊修塔尔|Ishtar|5|Archer|女性|森井しづき|植田佳奈|古代美索不达米亚神话|美索不达米亚|天|震撼山脉明星之薪（Angalta Kigalse）|Buster|对山宝具
+143|恩奇都|Enkidu|5|Lancer|－|森井しづき|小林优|古代美索不达米亚神话|美索不达米亚|天|人子啊，紧系神明吧（Enuma Elish）|Buster|对肃正宝具
+144|魁札尔·科亚特尔|Quetzalcoatl|5|Rider|女性|広江礼威|远藤绫|阿兹特克神话|中南美|天|炎蛇，连神一同烧灼殆尽（Xiuhcoatl）|Buster|对人・对城宝具
+145|吉尔伽美什〔Caster〕|Gilgamesh|4|Caster|男性|ギンカ|关智一|苏美尔文明、吉尔伽美什叙事诗|巴比伦尼亚、乌鲁克|人|王之号炮（Melammu·Dingir）|Arts|对军～对城宝具
+146|美杜莎〔Lancer〕|Medusa|4|Lancer|女性|BLACK|浅川悠|希腊神话|欧洲|地|女神的拥抱（Caress of the Medusa）|Quick|对人宝具
+147|戈尔贡|Gorgon|4|Avenger|女性|下越 |浅川悠|希腊神话|欧洲|地|强制封印·万魔神殿（Pandemonium·Cetus）|Buster|对军宝具
+148|豹人|Jaguar Man|3|Lancer|女性|蒼月タカオ|伊藤美纪|中南美各时代的神话|中南美|地|无法逃脱死之钩爪|Buster|对人宝具
+149|提亚马特|Tiamat|5|BeastⅡ|女性|山中虎鉄|悠木碧|古代美索不达米亚神话|美索不达米亚|兽|||
+150|梅林|Merlin|5|Caster|男性|タイキ|樱井孝宏|亚瑟王传说、其他|西欧诸国|地|已被永久闭关的理想乡（Garden of Avalon）|Arts|对人宝具
+151|魔神王 盖提亚|Goetia|5|BeastⅠ|无|山中虎鉄|杉田智和|||兽|||
+152|所罗门|Solomon|5|Caster|男性|武内崇|铃村健一|||地|||
+153|宫本武藏|Musashi Miyamoto|5|Saber|女性|こやまひろかず|佐仓绫音|史实|日本|人|六道五轮・俱利伽罗天象|Buster|对人宝具
+154|“山之翁”|Shaykh al Jabal|5|Assassin|男性|Ryota-H|中田让治|中东|中东|人|死告天使（Azrael）|Buster|对人宝具
+155|谜之女主角X〔Alter〕|Mysterious Heroine X|5|Berserker|女性| BUNBUN|川澄绫子|2017年情人节活动|Servant界|星|黑龙双克胜利剑|Quick|对人宝具
+156|詹姆斯·莫里亚蒂|James Moriarty|5|Archer|男性|本庄雷太|土师孝也|福尔摩斯探案集系列|欧洲全域|人|终局的犯罪（The Dynamics Of An Asteroid）|Buster|对军宝具
+157|卫宫〔Alter〕|Emiya|4|Archer|男性|佐々木少年|诹访部顺一|Fate/Grand Order|日本|人|无限剑制（Unlimited Lost Works）|Arts|对人宝具
+158|海森·罗伯|Hessian稬obo|4|Avenger|男性|下越|竹内良太|传承、史实、小说|美国|地|无远弗届的斩罪（Frieren Scharfrichter）|Quick|对人宝具
+159|燕青|Yan Qing|4|Assassin|男性|縞うどん|冈本信彦|《水浒传》|中国|人|十面埋伏·形如无影|Quick|对人宝具
+160|亚瑟·潘德拉贡〔Prototype〕|Arthur Pendragon|5|Saber|男性|中原|樱井孝宏|亚瑟王传说|欧洲|地|誓约胜利之剑（Excalibur）|Buster|？？？
+161|土方岁三|Toshizou Hijikata|5|Berserker|男性|余湖裕輝|星野贵纪|史实|日本|人|不灭之诚|Buster|对人宝具
+162|茶茶|Chacha|4|Berserker|女性|pako|阿澄佳奈|史实|日本|人|绚烂魔界日轮城|Buster|城塞宝具
+163|梅尔特莉莉丝（溶解莉莉丝）|Meltlilith|5|Alterego|女性|ワダアルコ|早见沙织|『Fate/EXTRA CCC』|SE.RA.PH|地|辩才天五弦琵琶（Sarasvati Melt out）|Quick|对人宝具
+164|帕森莉普（热情迷唇）|Passionlip|4|Alterego|女性|ワダアルコ|小仓唯|『Fate/EXTRA CCC』|SE.RA.PH|地|即便死亡将二人分离（Brynhild Romantia）|Buster|对人宝具
+165|铃鹿御前|Gozen Suzuka|4|Saber|女性|たけのこ星人 |东山奈央|鈴鹿の草子、田村三代記、等|日本|天|天鬼雨|Buster|对军宝具
+166|ＢＢ|ＢＢ|4|MoonCancer|女性|ワダアルコ|下屋则子|『Fate/EXTRA CCC』|SE.RA.PH|人|C.C.C.（Cursed Cupid Cleanser）|Arts|对人宝具
+167|杀生院祈荒|Kiara Sesshouin|5|Alterego|女性|ワダアルコ|田中理惠|『Fate/EXTRA CCC』|SE.RA.PH|兽|快乐天・胎藏曼荼罗|Arts|对人宝具
+168|BeastⅢ／R|BeastⅢ／R|5|BeastⅢ／R|女性|ワダアルコ|田中理惠|||兽|||
+169|山鲁佐德|Scheherazade|5|Caster|女性|なまにくATK(ニトロプラス)|井上喜久子|《一千零一夜》（Arabian Nights）|波斯|人|一千零一夜（Alf Layla wa Layla）|Arts|对王宝具
+170|武则天|Wu Zetian|4|Assassin|女性|原田たけひと|井泽诗织|史实|中国|人|告密罗织经|Quick|对人宝具
+171|彭忒西勒亚|Penthesilea|4|Berserker|女性|真じろう|嶋村侑|希腊神话、特洛伊战争|希腊|地|英雄，在我的愤恨中终结吧（Outrage Amazon）|Buster|对人宝具
+172|克里斯托弗·哥伦布|Cristoforo Colombo|3|Rider|男性|元村人|大塚芳忠|史实|西班牙|人|新天地探索航（Santa Maria·Drop Anchor）|Buster|对军宝具
+173|夏洛克·福尔摩斯|Sherlock Holmes|5|Ruler|男性|山中虎鉄|水岛大宙|夏洛克·福尔摩斯系列|英国、全世界|星|这是基本的推测，我的朋友（Elementary My Dear）|Arts|对人宝具/对界宝具
+174|保罗·班扬|Paul Bunyan|1|Berserker|女性|リヨ|小见川千明|传说|美国、加拿大|地|惊人的伟业（Marvelous Exploits）|Buster|对军宝具
+175|尼禄·克劳狄乌斯|Nero Claudius|5|Caster|女性|ワダアルコ|丹下樱|史实|罗马|人|歌颂的黄金剧场（Laudarentum Domus Illusterias）|Buster|对军宝具
+176|弗兰肯斯坦|Frankenstein|4|Saber|女性|岡崎武士|野中蓝|创作|欧洲全境|地|串刺的雷刃（Skewered plasma blade）|Quick|对人宝具
+177|尼托克丽丝|Nitocris|4|Assassin|女性|縞うどん|田中美海|史实|埃及|天|荡涤污秽、美丽的蓝色尼罗河（Sneferu·Iteru·Nile）|Arts|对军宝具
+178|织田信长|Nobunaga Oda|4|Berserker|女性|pako|钉宫理惠|史实|日本|人|第六天魔王波旬~夏盛~（Nobunaga·THE·RockRoll）|Buster|对神宝具
+179|阿尔托莉雅·潘德拉贡〔Alter〕|Altria Pendragon|5|Rider|女性|武内崇|川澄绫子|亚瑟王传说|英国|人|不屈燃烧胜利之剑（Sequence Morgan）|Quick|对军宝具
+180|海伦娜·布拉瓦茨基|Helena Blavatsky|4|Archer|女性|松竜|金元寿子|史实|欧洲|人|金星神・白银圆环（Sanat Kumāra wheel）|Arts|对军宝具
+181|源赖光|Raikou Minamotono|4|Lancer|女性|本庄雷太|户松遥|史实、『御伽草子』『丑御前的真身』等等|日本|天|释提桓因·金刚杵|Buster|对人宝具
+182|伊修塔尔|Ishtar|4|Rider|女性|森井しづき|植田佳奈|古代美索不达米亚神话|美索不达米亚|天|神峰天回明星之虹（Angalta seven colours）|Quick|对人宝具
+183|帕尔瓦蒂|Parvati|4|Lancer|女性|蒼月タカオ|下屋则子|印度神话|印度|天|见恋不为，无爱也（trishūla Shakti）|Quick|对军宝具
+184|巴御前|Gozen Tomoe|4|Archer|女性|しらび|金元寿子|史实|日本|地|真言·圣观世音菩萨（Mantra of Āryāvalokiteśvara）|Buster|对人宝具
+185|望月千代女|Chiyome Mochizuki|4|Assassin|女性|ひろやまひろし|佐仓绫音|史实|日本|地|通灵·伊吹大明神缘起|Arts|对人宝具
+186|宝藏院胤舜|Insyun Houzouin|3|Lancer|男性|松竜|浪川大辅|史实|日本|人|胧里月十一式|Arts|对人宝具
+187|柳生但马守宗矩|Dajimanokamimunenori Yagyuu|4|Saber|男性|古海鐘一|山路和弘|史实|日本|人|剑术无双·剑禅如一|Arts|对人奥义
+188|加藤段藏|Danzou Katou|4|Assassin|女性|曽我誠|明坂聪美|史实、『甲阳军鉴末书结要本』『北越军谈』『伽婢子』『绘本甲越军记』等|日本|地|络缲幻法·吞牛|Buster|对兽宝具
+189|刑部姬|Osakabehime|5|Assassin|女性|森山大輔|福圆美里|传说|日本（姬路城）|地|白鹭城的百鬼八天堂大人|Quick|对城宝具（自身）
+190|机械伊丽酱|mekaerichan|4|Alterego|女性型|ワダアルコ|大久保瑠美|Halloween･Strike！|监狱城恰赫季斯|人|钢铁天空魔娘（BrestoZero Elizabeth）|Buster|对军个人宝具
+191|机械伊丽酱Ⅱ号机|mekaerichan Ⅱ|4|Alterego|女性型|ワダアルコ|大久保瑠美|Halloween･Strike！|监狱城恰赫季斯|人|钢铁天空魔娘（BrestoZero Elizabeth）|Buster|对军个人宝具
+192|喀耳刻|Circe|4|Caster|女性|左|茜屋日海夏|希腊神话|欧洲|天|禁断之狂宴（Plump Piglets）|Buster|对人宝具
+193|哪吒|Nezha|4|Lancer|女性|蒼月タカオ|小仓唯|『封神演义』『西游记』等|中国|天|地飞爽灵 火尖枪|Buster|对军宝具
+194|示巴女王|Queen of Sheba|4|Caster|女性|加藤いつわ|佐藤聪美|旧约圣经、新约圣经等|东非、阿拉伯半岛南西部|人|三个谜题（Three Enigmas）|Arts|对人宝具
+195|阿比盖尔·威廉姆斯|Abigail Williams|5|Foreigner|女性|黒星紅白|大和田仁美|史实|北美·马萨诸塞州|地|光壳溢目的虚树（Qliphoth Rhizome）|Buster|对人宝具
+196|艾蕾什基伽尔|Ereshkigal|5|Lancer|女性|森井しづき|植田佳奈|古代美索不达米亚神话|美索不达米亚|地|碾拥灵峰冥府之鞴（Kur Kigal Irkalla）|Buster|对山宝具
+197|阿提拉·the·圣〔诞〕|Artila|4|Archer|女性|huke|能登麻美子|冥界的Merry Christmas|芬兰（自称）|星|圣夜之虹、军神之剑（Candy Star Photon Ray）|Quick|对界宝具
+198|葛饰北斋|Hokusai Katsushika|5|Foreigner|女性|黒星紅白|ゆかな|史实|日本|人|富岳三十六景|Arts|对军宝具
+199|赛米拉米斯|Semiramis|5|Assassin|女性|近衛乙嗣|真堂圭|传说|中东|地|虚荣的空中庭院（Hanging Gardens of Babylon）|Buster|对界宝具
+200|浅上藤乃|Fujino Asagami|4|Archer|女性|武内崇|能登麻美子|空之境界|日本|人|唯识・歪曲之魔眼|Buster|对界宝具
+201|阿纳斯塔西娅|Анастасия|5|Caster|女性|sime|原由实|史实|俄罗斯|人|疾走・精灵眼球（Вий・Вий・Вий）|Arts|精灵宝具
+202|阿塔兰忒〔Alter〕|Atalanta|4|Berserker|女性|近衛乙嗣|早见沙织|希腊神话|希腊|地|暗天蚀射（Tauropolos Skia Thermoplasia）|Quick|对人宝具
+203|阿维斯布隆|Avicebron|3|Caster|男性|近衛乙嗣|宫本充|传说|欧洲|人|王冠：睿智之光（Golem Kether Malchut）|Buster|对军宝具
+204|安东尼奥·萨列里|Antonio Salieri|3|Avenger|男性|PFALZ|关俊彦|『灰色之男』、莫扎特暗杀传说等|欧洲|地|至高的神啊，请赐予我怜悯（Dio・Santissimo・Misericordia・De・Mi）|Arts|对军宝具
+205|伊凡雷帝|Иван Грозный|5|Rider|男性|danciao|黑田崇矢|史实及异闻带|俄罗斯|人|征服吾等旅路之兽（звери・Крестный ход）|Buster|对人宝具
+206|阿喀琉斯|Achilles|5|Rider|男性|近衛乙嗣|古川慎|希腊神话|希腊|地|疾风怒涛的不死战车（Troias Tragoidia）|Quick|对军宝具
+207|喀戎|Chiron|4|Archer|男性|近衛乙嗣|武内骏辅|希腊神话|希腊|天|天蝎一射（Antares Snipe）|Arts|对人宝具
+208|齐格|Sieg|4|Caster|男性|近衛乙嗣|花江夏树|Fate/Apocrypha|罗马尼亚|人|灼热龙息・万地融解（Akafiloga Argries）|Arts|对人宝具
+209|冲田总司〔Alter〕|Souji Okita|5|Alterego|女性|武内崇|悠木碧|史实|日本|人|绝剑・无穹三段|Buster|对界宝具
+210|冈田以藏|Izou Okada|3|Assassin|男性|lack|吉野裕行|史实|日本|人|始末剑|Arts|对人魔剑
+211|坂本龙马|Ryouma Sakamoto|4|Rider|男性&女性|pako|加瀬康之 & 堀江由衣|史实&帝都圣杯奇谭|日本|人|翱翔天际宛如龙|Arts|对军宝具
+212|拿破仑|Napoleon|5|Archer|男性|Ryota-H|日野聡|史实、拿破仑传说|欧洲|星|高诏凯旋之虹弓（Arc de Triomphe de lEtoile）|Buster|对军宝具
+213|齐格鲁德|Sigurd|5|Saber|男性|三輪士郎|津田健次郎|北欧神话|欧洲|地|坏劫之天轮（Bövercr Gram）|Buster|对城宝具
+214|瓦尔基里|Valkyrie|4|Lancer|女性|武内崇|田中美海＆小松未可子＆雨宫天|北欧神话|欧洲|天|终末幻想・少女降临（Ragnarøk Lífþrasir）|Quick|对军宝具
+215|斯卡哈=丝卡蒂|Scathach=Skadi|5|Caster|女性|こやまひろかず|能登麻美子|北欧神话、凯尔特神话|欧洲|天|通往死亡流溢的魔境之门（Gate Of Sky）|Arts|对军宝具、开战宝具
+216|贞德〔Archer〕|Jeanne d'Arc|5|Archer|女性|武内崇|坂本真绫|史实|法国|人|丰饶的大海啊，与欢乐一起（Des Océans d'Allégresse）|Arts|对军宝具
+217|茨木童子〔Lancer〕|Ibaraki Douji|4|Lancer|女性|左|东山奈央|御伽草子等|日本|地|愚神礼赞・一条戻桥|Buster|对结界宝具／对军宝具
+218|牛若丸〔Assassin〕|Ushiwakamaru|4|Assassin|女性|坂本みねぢ|早见沙织|『义经记』『平家物语』|日本|人|天狗的羽毛扇・暴风|Quick|对军宝具
+219|贞德〔Alter〕（Berserker）|Jeanne d'Arc|4|Berserker|女性|武内崇|坂本真绫|史实|法国|人|烧却天理・鏖杀龙|Buster|对军宝具
+220|ＢＢ|ＢＢ|5|MoonCancer|女性|ワダアルコ|下屋则子|『Fate/EXTRA CCC』|SE.RA.PH|地|Ｃ.Ｃ.Ｃ.（Cursed Cutting Crater）|Buster|对界宝具
+221|女王梅芙〔Saber〕|Medb|4|Saber|女性|高山箕犀|佐仓绫音|凯尔特神话|爱尔兰|地|我所心爱的夏季爱之约会（OneShot My Love）|Arts|对人宝具
+222|谜之女主角XX|Mysterious Heroine XX|4|Foreigner|女性|BUNBUN|川澄绫子|Cosmo Guardian三部作|从者界|星|苍辉银河即宇宙（而苍穹宇宙为秩序）|Arts|对人宝具
