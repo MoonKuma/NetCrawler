@@ -1,2 +1,2 @@
-Examples for Python Net Crawler
+Examples for Python Web Crawler
 
